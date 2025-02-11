@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  box-shadow: inset;
+}
+nav{
+  background-color: #e4e4e4;
+}
+.article{
+  background-color: #f3f3f3;
+}
+.add-article{
+  background-color: #e4e4e4;
+}
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background-color: #f3f3f3;
+}
